@@ -79,6 +79,7 @@
     <Compile Include="Data\Repositories\IRepository.cs" />
     <Compile Include="Data\Repositories\Repository.cs" />
     <Compile Include="Data\UnitOfWork.cs" />
+    <Compile Include="CinemaContext.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\EntityBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
